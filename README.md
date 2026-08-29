@@ -1,3 +1,12 @@
+## 📚 Aprendizado
+
+Este projeto faz parte do meu aprendizado em React Native. 
+Para entender a diferença entre React e React Native, 
+confira meu repositório de estudo:
+[React vs React Native](https://github.com/youssuf-ops/React-React-Native)
+
+
+
 # 🚀 UsedCard - React Native App
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
